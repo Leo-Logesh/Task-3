@@ -70,8 +70,8 @@ Build a chatbot using NLP libraries like NLTK or spaCy, capable of answering use
 Deliverable: A Python script and a working chatbot.
 
 👨‍💻 Author
-Sathyasree
-🌐 GitHub: github.com/sathyasree-r
+Leo Logesh 
+🌐 GitHub: github.com/Leo-Logesh
 
 🤝 Contributing
 Pull requests and feedback are welcome!
